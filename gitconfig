@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tchucky@gmail.com
+	name = Daniel Polistchuck
